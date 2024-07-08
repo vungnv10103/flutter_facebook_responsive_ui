@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_facebook/models/models.dart';
 import 'package:flutter_facebook/widgets/widgets.dart';
-
-import '../models/models.dart';
 
 class Rooms extends StatelessWidget {
   final List<User> onlinedUser;
